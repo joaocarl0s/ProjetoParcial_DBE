@@ -1,21 +1,20 @@
 # Projeto_Parcial_DBE
 
-Henrique Santos
-RM82172
+João Carlos Azevedo - RM85744
 
-Como testar o checkpoint:
+PROFESSOR, SIGA OS PASSOS ABAIXO PARA RODAR O PROJETO:
 
-1- Instalar MySql= https://www.sqlshack.com/how-to-install-mysql-database-server-8-0-19-on-windows-10
+- Instalar MySql
 
-2- Crie sua conta no MySql:  USUARIO- CTT2021 (caso queira mudar de usuario, modifique o arquivo persistence.xml)
-							 SENHA- ctt@123
+- Crie sua conta no MySql:  USUARIO- CTT2021 
+			    SENHA- ctt@123
 							 							 
-2- Insira no MySql: create database projeto_parcial
+- Insira no MySql: create database projeto_parcial
 
-3- Ligue o servidor
+- Ligue o servidor
 
-4- Execute o arquivo index.xhtml
+- Execute o arquivo index.xhtml
 
-5- Pagina cadastro: Cadastre o usuaio
+- Pagina cadastro: Cadastro do usuário
 
-6- Pagina Listagem: Visualise os usuarios cadastrados
+- Pagina Listagem: Onde os usuários estão cadastrados.
